@@ -1,0 +1,7 @@
+{
+  "name": "Sync to AWS Codecommit",
+  "description": "Syncs code pushes and branch deletions to AWS Codecommit",
+  "categories": [
+    "Backup"
+  ]
+}
